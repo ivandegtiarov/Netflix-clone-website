@@ -4,7 +4,14 @@
 
 - Responsive Headphones Website Design Using ReactJS & CSS
 - Contains Login and Registration.
-- Compatible with all mobile devicese.
+- Contains responsive Video player
+- Compatible with all mobile devices.
 
+Main page
 ![preview img](/preview.jpg)
+
+Video player
+![preview img](/preview2.jpg)
+
+Login page
 ![preview img](/preview1.jpg)
