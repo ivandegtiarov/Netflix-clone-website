@@ -2,7 +2,7 @@
 
 ### (React, Firebase, CSS)
 
-- Responsive Headphones Website Design Using ReactJS & CSS
+- Responsive Netflix-clone Website Design Using ReactJS & CSS
 - Contains Login and Registration.
 - Contains responsive Video player
 - Compatible with all mobile devices.
